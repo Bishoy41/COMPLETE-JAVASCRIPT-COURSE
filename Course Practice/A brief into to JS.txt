@@ -1,0 +1,8 @@
+What is JavaScript?
+- It is a highleve Object Orientented, multiparadigm programming language 
+
+What does multiparadigm mean?
+- Means we can use different programming styles such as imparative and declartive programming.
+
+What is JS used for?
+- The 3 core technologies of the web are HTML (content), CSS (styling), JavaScript(programming language of the web, manipulate content, load data, build web applications)
